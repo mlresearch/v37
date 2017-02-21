@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>DiSCO: Distributed Optimization for Self-Concordant Empirical Loss | ICML 2015 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="DiSCO: Distributed Optimization for Self-Concordant Empirical Loss">
+
+  <meta name="citation_author" content="Zhang, Yuchen">
+
+  <meta name="citation_author" content="Lin, Xiao">
+
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_conference_title" content="Proceedings of The 32nd International Conference on Machine Learning">
+<meta name="citation_firstpage" content="362">
+<meta name="citation_lastpage" content="370">
+<meta name="citation_pdf_url" content="zhangb15.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>DiSCO: Distributed Optimization for Self-Concordant Empirical Loss</h1>
+
+	<div id="authors">
+	
+		Yuchen Zhang,
+	
+		Xiao Lin
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of The 32nd International Conference on Machine Learning,
+		pp. 362–370, 2015
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		We propose a new distributed algorithm for empirical risk minimization in machine learning. The algorithm is based on an inexact damped Newton method, where the inexact Newton steps are computed by a distributed preconditioned conjugate gradient method. We analyze its iteration complexity and communication efficiency for minimizing self-concordant empirical loss functions, and discuss the results for distributed ridge regression, logistic regression and binary classification with a smoothed hinge loss. In a standard setting for supervised learning, where the <span class="math">\(n\)</span> data points are i.i.d. sampled and when the regularization parameter scales as <span class="math">\(1/\sqrt{n}\)</span>, we show that the proposed algorithm is communication efficient: the required round of communication does not increase with the sample size <span class="math">\(n\)</span>, and only grows slowly with the number of machines.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="zhangb15.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>

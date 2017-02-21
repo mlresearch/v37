@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Fast Kronecker Inference in Gaussian Processes with non-Gaussian Likelihoods | ICML 2015 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="Fast Kronecker Inference in Gaussian Processes with non-Gaussian Likelihoods">
+
+  <meta name="citation_author" content="Flaxman, Seth">
+
+  <meta name="citation_author" content="Wilson, Andrew">
+
+  <meta name="citation_author" content="Neill, Daniel">
+
+  <meta name="citation_author" content="Nickisch, Hannes">
+
+  <meta name="citation_author" content="Smola, Alex">
+
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_conference_title" content="Proceedings of The 32nd International Conference on Machine Learning">
+<meta name="citation_firstpage" content="607">
+<meta name="citation_lastpage" content="616">
+<meta name="citation_pdf_url" content="flaxman15.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>Fast Kronecker Inference in Gaussian Processes with non-Gaussian Likelihoods</h1>
+
+	<div id="authors">
+	
+		Seth Flaxman,
+	
+		Andrew Wilson,
+	
+		Daniel Neill,
+	
+		Hannes Nickisch,
+	
+		Alex Smola
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of The 32nd International Conference on Machine Learning,
+		pp. 607–616, 2015
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		Gaussian processes (GPs) are a flexible class of methods with state of the art performance on spatial statistics applications. However, GPs require <span class="math">\(O(n^3)\)</span> computations and <span class="math">\(O(n^2)\)</span> storage, and popular GP kernels are typically limited to smoothing and interpolation. To address these difficulties, Kronecker methods have been used to exploit structure in the GP covariance matrix for scalability, while allowing for expressive kernel learning (Wilson et al., 2014). However, fast Kronecker methods have been confined to Gaussian likelihoods. We propose new scalable Kronecker methods for Gaussian processes with non-Gaussian likelihoods, using a Laplace approximation which involves linear conjugate gradients for inference, and a lower bound on the GP marginal likelihood for kernel learning. Our approach has near linear scaling, requiring <span class="math">\(O(D n^{(D+1)/D})\)</span> operations and <span class="math">\(O(D n^{2/D})\)</span> storage, for n training data-points on a dense D &gt; 1 dimensional grid. Moreover, we introduce a log Gaussian Cox process, with highly expressive kernels, for modelling spatiotemporal count processes, and apply it to a point pattern (n = 233,088) of a decade of crime events in Chicago. Using our model, we discover spatially varying multiscale seasonal trends and produce highly accurate long-range local area forecasts.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="flaxman15.pdf">Download PDF</a></li>
+			
+			<li><a href="flaxman15-supp.pdf">Supplementary (PDF)</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>

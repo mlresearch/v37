@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Rademacher Observations, Private Data, and Boosting | ICML 2015 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="Rademacher Observations, Private Data, and Boosting">
+
+  <meta name="citation_author" content="Nock, Richard">
+
+  <meta name="citation_author" content="Patrini, Giorgio">
+
+  <meta name="citation_author" content="Friedman, Arik">
+
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_conference_title" content="Proceedings of The 32nd International Conference on Machine Learning">
+<meta name="citation_firstpage" content="948">
+<meta name="citation_lastpage" content="956">
+<meta name="citation_pdf_url" content="nock15.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>Rademacher Observations, Private Data, and Boosting</h1>
+
+	<div id="authors">
+	
+		Richard Nock,
+	
+		Giorgio Patrini,
+	
+		Arik Friedman
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of The 32nd International Conference on Machine Learning,
+		pp. 948–956, 2015
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		The minimization of the logistic loss is a popular approach to batch supervised learning. Our paper starts from the surprising observation that, when fitting linear classifiers, the minimization of the logistic loss is <em>equivalent</em> to the minimization of an exponential <em>rado</em>-loss computed (i) over transformed data that we call Rademacher observations (rados), and (ii) over the <em>same</em> classifier as the one of the logistic loss. Thus, a classifier learnt from rados can be <em>directly</em> used to classify <em>observations</em>. We provide a learning algorithm over rados with boosting-compliant convergence rates on the <em>logistic loss</em> (computed over examples). Experiments on domains with up to millions of examples, backed up by theoretical arguments, display that learning over a small set of random rados can challenge the state of the art that learns over the <em>complete</em> set of examples. We show that rados comply with various privacy requirements that make them good candidates for machine learning in a privacy framework. We give several algebraic, geometric and computational hardness results on reconstructing examples from rados. We also show how it is possible to craft, and efficiently learn from, rados in a differential privacy framework. Tests reveal that learning from differentially private rados brings non-trivial privacy vs accuracy tradeoffs.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="nock15.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>
