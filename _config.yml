@@ -1,0 +1,46 @@
+---
+booktitle: Proceedings of the 32nd International Conference on Machine Learning
+publisher: PMLR
+volume: 37
+published: 2015-06-01
+start: 2015-07-07
+end: 2015-07-09
+year: '2015'
+shortname: ICML
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: ICML-2015
+month: 0
+abstract: ''
+sections: 
+editor:
+- given: Francis
+  family: Bach
+- given: David
+  family: Blei
+title: Proceedings of the 32nd International Conference on Machine Learning
+email: ''
+description: Proceedings of the 32nd International Conference on Machine Learning,
+  Lille, France
+url: http://proceedings.mlr.press
+baseurl: "/v37"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v37
+conference:
+  name: International Conference on Machine Learning
+  url: http://icml.cc/2015/
+  location: Lille, France
+  dates:
+  - 2015-07-07
+  - 2015-07-08
+  - 2015-07-09
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v37.bib
