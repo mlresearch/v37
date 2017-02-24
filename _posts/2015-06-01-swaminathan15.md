@@ -38,6 +38,6 @@ issued:
   - 2015
   - 6
   - 1
-pdf: http://proceedings.mlr.press/v37/swaminathan15/swaminathan15.pdf
+pdf: http://proceedings.mlr.press/v37/swaminathan15.pdf
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
