@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shajarisales15
 month: 0
+tex_title: Telling cause from effect in deterministic linear dynamical systems
 firstpage: 285
 lastpage: 294
 page: 285-294

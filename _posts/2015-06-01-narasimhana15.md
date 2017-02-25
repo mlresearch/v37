@@ -23,6 +23,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: narasimhana15
 month: 0
+tex_title: 'Optimizing Non-decomposable Performance Measures: A Tale of Two Classes'
 firstpage: 199
 lastpage: 208
 page: 199-208

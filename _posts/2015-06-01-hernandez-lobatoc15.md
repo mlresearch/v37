@@ -19,6 +19,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: hernandez-lobatoc15
 month: 0
+tex_title: Probabilistic Backpropagation for Scalable Learning of Bayesian Neural
+  Networks
 firstpage: 1861
 lastpage: 1869
 page: 1861-1869

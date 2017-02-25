@@ -13,6 +13,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: steinhardtb15
 month: 0
+tex_title: Learning Fast-Mixing Models for Structured Prediction
 firstpage: 1063
 lastpage: 1072
 page: 1063-1072

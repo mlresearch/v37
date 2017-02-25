@@ -25,6 +25,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: blechschmidt15
 month: 0
+tex_title: Tracking Approximate Solutions of Parameterized Optimization Problems over
+  Multi-Dimensional (Hyper-)Parameter Domains
 firstpage: 438
 lastpage: 447
 page: 438-447

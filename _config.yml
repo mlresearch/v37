@@ -12,13 +12,14 @@ series: Proceedings of Machine Learning Research
 id: ICML-2015
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 sections: 
 editor:
 - given: Francis
   family: Bach
 - given: David
   family: Blei
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 32nd International Conference on Machine Learning
     Held in Lille, France on 7-09 July 2015

@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: ghoshdastidar15
 month: 0
+tex_title: A Provable Generalized Tensor Spectral Method for Uniform Hypergraph Partitioning
 firstpage: 400
 lastpage: 409
 page: 400-409

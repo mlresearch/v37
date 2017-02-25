@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sohl-dickstein15
 month: 0
+tex_title: Deep Unsupervised Learning using Nonequilibrium Thermodynamics
 firstpage: 2256
 lastpage: 2265
 page: 2256-2265

@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: hernandez-lobatob15
 month: 0
+tex_title: Predictive Entropy Search for Bayesian Optimization with Unknown Constraints
 firstpage: 1699
 lastpage: 1707
 page: 1699-1707

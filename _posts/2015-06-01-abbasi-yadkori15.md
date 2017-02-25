@@ -16,6 +16,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: abbasi-yadkori15
 month: 0
+tex_title: Large-Scale Markov Decision Problems with KL Control Cost and its Application
+  to Crowdsourcing
 firstpage: 1053
 lastpage: 1062
 page: 1053-1062

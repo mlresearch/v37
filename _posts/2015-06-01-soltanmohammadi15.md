@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: soltanmohammadi15
 month: 0
+tex_title: Context-based Unsupervised Data Fusion for Decision Making
 firstpage: 2076
 lastpage: 2084
 page: 2076-2084

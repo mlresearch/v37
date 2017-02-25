@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: bounliphone15
 month: 0
+tex_title: A low variance consistent test of relative dependency
 firstpage: 20
 lastpage: 29
 page: 20-29

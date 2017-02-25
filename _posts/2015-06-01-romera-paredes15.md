@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: romera-paredes15
 month: 0
+tex_title: An embarrassingly simple approach to zero-shot learning
 firstpage: 2152
 lastpage: 2161
 page: 2152-2161

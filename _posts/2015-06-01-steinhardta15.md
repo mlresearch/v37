@@ -14,6 +14,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: steinhardta15
 month: 0
+tex_title: Reified Context Models
 firstpage: 1043
 lastpage: 1052
 page: 1043-1052

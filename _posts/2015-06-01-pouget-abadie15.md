@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: pouget-abadie15
 month: 0
+tex_title: 'Inferring Graphs from Cascades: A Sparse Recovery Framework'
 firstpage: 977
 lastpage: 986
 page: 977-986

@@ -12,6 +12,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: beygelzimer15
 month: 0
+tex_title: Optimal and Adaptive Algorithms for Online Boosting
 firstpage: 2323
 lastpage: 2331
 page: 2323-2331

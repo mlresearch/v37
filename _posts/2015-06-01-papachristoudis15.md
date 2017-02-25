@@ -21,6 +21,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: papachristoudis15
 month: 0
+tex_title: Adaptive Belief Propagation
 firstpage: 899
 lastpage: 907
 page: 899-907

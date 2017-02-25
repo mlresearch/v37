@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: hernandez-lobatoa15
 month: 0
+tex_title: A Probabilistic Model for Dirty Multi-task Feature Selection
 firstpage: 1073
 lastpage: 1082
 page: 1073-1082

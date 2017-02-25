@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: swaminathan15
 month: 0
+tex_title: 'Counterfactual Risk Minimization: Learning from Logged Bandit Feedback'
 firstpage: 814
 lastpage: 823
 page: 814-823
