@@ -22,7 +22,7 @@ editor:
   family: Blei
 description: |
   Proceedings of the 32nd International Conference on Machine Learning
-    Held in Lille, France on 7-09 July 2015
+    Held in Lille, France on 07-09 July 2015
 
   Published as Volume 37 by the Proceedings of Machine Learning Research on 01 June 2015.
 
@@ -33,7 +33,7 @@ description: |
   Series Editors:
     Neil D. Lawrence
     Mark Reid
-date_str: 7--09 Jul
+date_str: 07--09 Jul
 url: http://proceedings.mlr.press
 baseurl: "/v37"
 twitter_username: mlresearch
