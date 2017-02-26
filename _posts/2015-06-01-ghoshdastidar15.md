@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:ghoshdastidar15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/ghoshdastidar15-supp.pdf
 title: A Provable Generalized Tensor Spectral Method for Uniform Hypergraph Partitioning
 abstract: Matrix spectral methods play an important role in statistics and machine
   learning, and most often the word ‘matrix’ is dropped as, by default, one assumes
@@ -23,7 +23,8 @@ tex_title: A Provable Generalized Tensor Spectral Method for Uniform Hypergraph 
 firstpage: 400
 lastpage: 409
 page: 400-409
-sections: 
+order: 400
+cycles: false
 author:
 - given: Debarghya
   family: Ghoshdastidar

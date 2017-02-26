@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:steinhardtb15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/steinhardtb15-supp.pdf
 title: Learning Fast-Mixing Models for Structured Prediction
 abstract: Markov Chain Monte Carlo (MCMC) algorithms are often used for approximate
   inference inside learning, but their slow mixing can be difficult to diagnose and
@@ -17,7 +17,8 @@ tex_title: Learning Fast-Mixing Models for Structured Prediction
 firstpage: 1063
 lastpage: 1072
 page: 1063-1072
-sections: 
+order: 1063
+cycles: false
 author:
 - given: Jacob
   family: Steinhardt

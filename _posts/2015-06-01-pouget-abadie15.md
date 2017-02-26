@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:pouget-abadie15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/pouget-abadie15-supp.pdf
 title: 'Inferring Graphs from Cascades: A Sparse Recovery Framework'
 abstract: In the Graph Inference problem, one seeks to recover the edges of an unknown
   graph from the observations of cascades propagating over this graph. In this paper,
@@ -19,7 +19,8 @@ tex_title: 'Inferring Graphs from Cascades: A Sparse Recovery Framework'
 firstpage: 977
 lastpage: 986
 page: 977-986
-sections: 
+order: 977
+cycles: false
 author:
 - given: Jean
   family: Pouget-Abadie

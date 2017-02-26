@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:beygelzimer15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/beygelzimer15-supp.pdf
 title: Optimal and Adaptive Algorithms for Online Boosting
 abstract: We study online boosting, the task of converting any weak online learner
   into a strong online learner. Based on a novel and natural definition of weak online
@@ -16,7 +16,8 @@ tex_title: Optimal and Adaptive Algorithms for Online Boosting
 firstpage: 2323
 lastpage: 2331
 page: 2323-2331
-sections: 
+order: 2323
+cycles: false
 author:
 - given: Alina
   family: Beygelzimer

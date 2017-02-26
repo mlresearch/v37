@@ -21,7 +21,8 @@ tex_title: Context-based Unsupervised Data Fusion for Decision Making
 firstpage: 2076
 lastpage: 2084
 page: 2076-2084
-sections: 
+order: 2076
+cycles: false
 author:
 - given: Erfan
   family: Soltanmohammadi

@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:narasimhanb15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/narasimhanb15-supp.pdf
 title: Consistent Multiclass Algorithms for Complex Performance Measures
 abstract: This paper presents new consistent algorithms for multiclass learning with
   complex performance measures, defined by arbitrary functions of the confusion matrix.
@@ -22,7 +22,8 @@ tex_title: Consistent Multiclass Algorithms for Complex Performance Measures
 firstpage: 2398
 lastpage: 2407
 page: 2398-2407
-sections: 
+order: 2398
+cycles: false
 author:
 - given: Harikrishna
   family: Narasimhan

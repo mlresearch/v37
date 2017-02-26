@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:narasimhana15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/narasimhana15-supp.pdf
 title: 'Optimizing Non-decomposable Performance Measures: A Tale of Two Classes'
 abstract: Modern classification problems frequently present mild to severe label imbalance
   as well as specific requirements on classification characteristics, and require
@@ -27,7 +27,8 @@ tex_title: 'Optimizing Non-decomposable Performance Measures: A Tale of Two Clas
 firstpage: 199
 lastpage: 208
 page: 199-208
-sections: 
+order: 199
+cycles: false
 author:
 - given: Harikrishna
   family: Narasimhan

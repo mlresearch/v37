@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:abbasi-yadkori15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/abbasi-yadkori15-supp.pdf
 title: Large-Scale Markov Decision Problems with KL Control Cost and its Application
   to Crowdsourcing
 abstract: We study average and total cost Markov decision problems with large state
@@ -21,7 +21,8 @@ tex_title: Large-Scale Markov Decision Problems with KL Control Cost and its App
 firstpage: 1053
 lastpage: 1062
 page: 1053-1062
-sections: 
+order: 1053
+cycles: false
 author:
 - given: Yasin
   family: Abbasi-Yadkori

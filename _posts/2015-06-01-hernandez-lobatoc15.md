@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:hernandez-lobatoc15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/hernandez-lobatoc15-supp.pdf
 title: Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks
 abstract: Large multilayer neural networks trained with backpropagation have recently
   achieved state-of-the-art results in a wide range of problems. However, using backprop
@@ -24,7 +24,8 @@ tex_title: Probabilistic Backpropagation for Scalable Learning of Bayesian Neura
 firstpage: 1861
 lastpage: 1869
 page: 1861-1869
-sections: 
+order: 1861
+cycles: false
 author:
 - given: Jose Miguel
   family: Hernandez-Lobato

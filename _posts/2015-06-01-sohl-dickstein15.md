@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:sohl-dickstein15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/sohl-dickstein15-supp.pdf
 title: Deep Unsupervised Learning using Nonequilibrium Thermodynamics
 abstract: A central problem in machine learning involves modeling complex data-sets
   using highly flexible families of probability distributions in which learning, sampling,
@@ -21,7 +21,8 @@ tex_title: Deep Unsupervised Learning using Nonequilibrium Thermodynamics
 firstpage: 2256
 lastpage: 2265
 page: 2256-2265
-sections: 
+order: 2256
+cycles: false
 author:
 - given: Jascha
   family: Sohl-Dickstein

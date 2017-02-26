@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:hernandez-lobatob15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/hernandez-lobatob15-supp.pdf
 title: Predictive Entropy Search for Bayesian Optimization with Unknown Constraints
 abstract: Unknown constraints arise in many types of expensive black-box optimization
   problems. Several methods have been proposed recently for performing Bayesian optimization
@@ -23,7 +23,8 @@ tex_title: Predictive Entropy Search for Bayesian Optimization with Unknown Cons
 firstpage: 1699
 lastpage: 1707
 page: 1699-1707
-sections: 
+order: 1699
+cycles: false
 author:
 - given: Jose Miguel
   family: Hernandez-Lobato

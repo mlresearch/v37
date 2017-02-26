@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:papachristoudis15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/papachristoudis15-supp.pdf
 title: Adaptive Belief Propagation
 abstract: Graphical models are widely used in inference problems. In practice, one
   may construct a single large-scale model to explain a phenomenon of interest, which
@@ -25,7 +25,8 @@ tex_title: Adaptive Belief Propagation
 firstpage: 899
 lastpage: 907
 page: 899-907
-sections: 
+order: 899
+cycles: false
 author:
 - given: Georgios
   family: Papachristoudis

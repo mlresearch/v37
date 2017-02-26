@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:romera-paredes15-supp.pdf
+supplementary: http://proceedings.mlr.press/v37/romera-paredes15-supp.pdf
 title: An embarrassingly simple approach to zero-shot learning
 abstract: Zero-shot learning consists in learning how to recognize new concepts by
   just having a description of them. Many sophisticated approaches have been proposed
@@ -21,7 +21,8 @@ tex_title: An embarrassingly simple approach to zero-shot learning
 firstpage: 2152
 lastpage: 2161
 page: 2152-2161
-sections: 
+order: 2152
+cycles: false
 author:
 - given: Bernardino
   family: Romera-Paredes

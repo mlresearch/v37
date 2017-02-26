@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:steinhardta15-supp.zip
+supplementary: http://proceedings.mlr.press/v37/steinhardta15-supp.zip
 title: Reified Context Models
 abstract: A classic tension exists between exact inference in a simple model and approximate
   inference in a complex model. The latter offers expressivity and thus accuracy,
@@ -18,7 +18,8 @@ tex_title: Reified Context Models
 firstpage: 1043
 lastpage: 1052
 page: 1043-1052
-sections: 
+order: 1043
+cycles: false
 author:
 - given: Jacob
   family: Steinhardt

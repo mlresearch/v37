@@ -30,7 +30,8 @@ tex_title: Tracking Approximate Solutions of Parameterized Optimization Problems
 firstpage: 438
 lastpage: 447
 page: 438-447
-sections: 
+order: 438
+cycles: false
 author:
 - given: Katharina
   family: Blechschmidt

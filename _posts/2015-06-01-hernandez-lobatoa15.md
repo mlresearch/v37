@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:hernandez-lobatoa15-supp.zip
+supplementary: http://proceedings.mlr.press/v37/hernandez-lobatoa15-supp.zip
 title: A Probabilistic Model for Dirty Multi-task Feature Selection
 abstract: Multi-task feature selection methods often make the hypothesis that learning
   tasks share relevant and irrelevant features. However, this hypothesis may be too
@@ -19,7 +19,8 @@ tex_title: A Probabilistic Model for Dirty Multi-task Feature Selection
 firstpage: 1073
 lastpage: 1082
 page: 1073-1082
-sections: 
+order: 1073
+cycles: false
 author:
 - given: Daniel
   family: Hernandez-Lobato

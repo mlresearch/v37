@@ -23,7 +23,8 @@ tex_title: A low variance consistent test of relative dependency
 firstpage: 20
 lastpage: 29
 page: 20-29
-sections: 
+order: 20
+cycles: false
 author:
 - given: Wacha
   family: Bounliphone

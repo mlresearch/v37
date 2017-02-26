@@ -22,7 +22,8 @@ tex_title: 'Counterfactual Risk Minimization: Learning from Logged Bandit Feedba
 firstpage: 814
 lastpage: 823
 page: 814-823
-sections: 
+order: 814
+cycles: false
 author:
 - given: Adith
   family: Swaminathan
